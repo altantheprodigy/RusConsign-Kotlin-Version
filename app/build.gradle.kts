@@ -61,4 +61,6 @@ dependencies {
 
     // OkHttp logging interceptor (optional, useful for logging network requests)
     implementation("com.squareup.okhttp3:logging-interceptor:4.9.3")
+    implementation("com.github.bumptech.glide:glide:4.15.1")
+    annotationProcessor ("com.github.bumptech.glide:compiler:4.15.1")
 }

@@ -15,7 +15,7 @@ data class Barang (
     val rating_barang: Double,
     val categoryID: Long,
     val categoryNama: String,
-    val imageBarang: String,
+    val image_barang: String,
     val status: String,
     val stock: Long,
     val quantity: Long,
